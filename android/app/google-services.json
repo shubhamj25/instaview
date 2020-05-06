@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1038388826547",
+    "firebase_url": "https://counsel-c7678.firebaseio.com",
+    "project_id": "counsel-c7678",
+    "storage_bucket": "counsel-c7678.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038388826547:android:26e52b3be26fc6df88fbc6",
+        "android_client_info": {
+          "package_name": "com.example.railyatri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038388826547-m2hghrteppjdhv3v0g6156lktu16g473.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1npeZY2kBCHoOikwcAQW8u_p0joU1TE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038388826547-ovk8659dhr7t978n2rbfuudj7f2e0bhk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1038388826547-ctar7spt949dkp88cdugtg0p3k4mcvnt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.railyatri"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038388826547:android:38cdaf436d7aed1888fbc6",
+        "android_client_info": {
+          "package_name": "com.example.tictok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038388826547-m2hghrteppjdhv3v0g6156lktu16g473.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1npeZY2kBCHoOikwcAQW8u_p0joU1TE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038388826547-ovk8659dhr7t978n2rbfuudj7f2e0bhk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1038388826547-ctar7spt949dkp88cdugtg0p3k4mcvnt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.railyatri"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
