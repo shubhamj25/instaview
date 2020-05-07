@@ -23,20 +23,6 @@ import 'package:cached_network_image/cached_network_image.dart';
 Future<void> main() async{
   ErrorWidget.builder = (FlutterErrorDetails details) => Container();
   WidgetsFlutterBinding.ensureInitialized();
-  final FirebaseApp app = await FirebaseApp.configure(
-    name:'railyatri-firestore',
-    options: Platform.isIOS
-            ? const FirebaseOptions(
-        googleAppID: "1:1038388826547:ios:872e1275a63bf40288fbc6",
-        gcmSenderID: "1038388826547",
-        databaseURL: "https://counsel-c7678.firebaseio.com/"
-
-          )
-            :const FirebaseOptions(
-        googleAppID: '1:1038388826547:android:26e52b3be26fc6df88fbc6',
-        apiKey: "AIzaSyDOkUABZF_0Zzc3i-fl3exp_SLuPTQdxLM",
-        databaseURL: "https://counsel-c7678.firebaseio.com/"
-  ));
   cameras = await availableCameras();
   runApp(
     MaterialApp(
